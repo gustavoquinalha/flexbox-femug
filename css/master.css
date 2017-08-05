@@ -6,6 +6,17 @@ body,
 html {
   height: 100%
 }
+.menu {
+  height: 100px;
+  background: blue
+}
+.size {
+  width: 1140px;
+  max-width: 90%;
+}
+.margin{
+  margin: 0 auto
+}
 .teste {
   min-height: 500px;
   width: 500px;
